@@ -71,11 +71,11 @@ randomWords.forEach((word) => {
 
 // Ảnh dùng cho hiệu ứng nổ (hiển thị hình ảnh ngẫu nhiên tại điểm nổ)
 const imageSources = [
-	"./images/image1.jpeg",
-	"./images/image2.jpeg",
-	"./images/image3.jpeg",
-	"./images/image4.jpeg",
-	"./images/image5.jpeg",
+	"./images/1.jpg",
+	"./images/2.jpg",
+	"./images/3.jpg",
+	"./images/4.jpg",
+	"./images/5.jpg",
 ];
 const loadedImages = [];
 const imageBursts = [];
@@ -545,14 +545,14 @@ store.subscribe(handleStateChange);
 
 // Mảng câu chúc màu hồng
 const WISH_MESSAGES = [
-	"Năm mới an khang thịnh vượng",
-	"Năm mới bình an",
-	"Chúc mọi điều ước của em đều trở thành hiện thực ✨",
-	"Chúc gia đình em luôn bình an và hạnh phúc ❤️",
-	"Chúc em luôn khỏe mạnh và tràn đầy năng lượng 💪",
-	"Chúc công việc thuận lợi, thăng tiến không ngừng 🚀",
-	"Chúc em luôn mỉm cười và yêu đời mỗi ngày 😊",
-	"Chúc em gặp nhiều may mắn và niềm vui 🎉",
+	"Bớt chuyển tiền lại cái",
+	"Lạy Bố",
+	"Lo lấy tiền đó mà dùng việc tốt giùm",
+	"Chuyển qua chuyển lại ko mệt hả ",
+	"Bao nhiêu tuổi rồi",
+	"IQ thấp hả hay sao lì rứa , tốn tiền mạng",
+	"Chuyển nữa thì vô thùng tip",
+	"Chuyển quần què luôn",
 ];
 
 // Sinh 1 câu chúc bay lên
